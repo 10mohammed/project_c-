@@ -9,7 +9,7 @@ int main(void)
     initgraph(&graphic_driver, &graphic_mode, "//turboc3/bgi");
    int x = getmaxx() / 2;
    int y = getmaxy() / 2;
-   
+   hvghfddgfgdgdgdfgfgfgfd
    
     while (!kbhit())
     {
