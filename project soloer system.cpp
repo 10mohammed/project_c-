@@ -10,7 +10,7 @@ int main(void)
    int x = getmaxx() / 2;
    int y = getmaxy() / 2;
    hvghfddgfgdgdgdfgfgfgfd
-   
+   ,mhkjhjkhkhjkhkj
     while (!kbhit())
     {
         settextstyle(1, 0, 4);
