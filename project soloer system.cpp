@@ -1,4 +1,4 @@
-#include <graphics.h>
+#include <graphics.h>// good
 #include <conio.h>
 #include <dos.h>
 #include <math.h>
